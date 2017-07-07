@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1499444612 source:/home/ton/Documentos/BibliotecaDeOperacoesMatriciais/main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Menu.h"
+	"Bom.h"
+
+1499380575 /home/ton/Documentos/BibliotecaDeOperacoesMatriciais/menu.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1499428136 /home/ton/Documentos/BibliotecaDeOperacoesMatriciais/Matriz.h
+
+1499446071 source:/home/ton/Documentos/BibliotecaDeOperacoesMatriciais/Matriz.c
+	"Matriz.h"
+	<stdlib.h>
+	<stdlib.h>
+
+1499441499 /home/ton/Documentos/BibliotecaDeOperacoesMatriciais/Menu.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1499446600 /home/ton/Documentos/BibliotecaDeOperacoesMatriciais/Bom.h
+	"Matriz.h"
+
+1499443036 source:/home/ton/Documentos/BibliotecaDeOperacoesMatriciais/Bom.c
+	"Bom.h"
+	"Matriz.h"
+
